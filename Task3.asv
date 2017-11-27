@@ -1,0 +1,6 @@
+
+t = 0;
+I = 0;
+u = rand();
+lambda = 3;
+X = -(1/lambda)*log(u);
